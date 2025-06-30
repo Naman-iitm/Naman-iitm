@@ -3,9 +3,9 @@ Aspiring Data Scientist | Future BS @ IIT Madras (Sept 2025)
 Minor in AI @ IIT Ropar (Jan 2026) | Web Developer | Tech Explorer
 
 💻 **Projects I've built:**
-- 🎬 [Namflix](#): A Netflix-style clone made with pure HTML & CSS (no AI, no GPT – just vibes 😎)
-- ☕ [ChaiTapri](#): A website for chai lovers — clean UI, desi feel
-- 📄 [Application Form UI](#): Fully responsive form with real-world layout
+- 🎬 [Namflix](https://naman-iitm.github.io/Namflix/): A Netflix-style clone made with pure HTML & CSS (no AI, no GPT – just vibes 😎)
+- ☕ [ChaiTapri](https://naman-iitm.github.io/chai-tapri-website/): A website for chai lovers — clean UI, desi feel
+- 📄 [Application Form UI](https://naman-iitm.github.io/HTML-project-/): Fully responsive form with real-world layout
 
 🌱 **Currently Learning**: Python, Git, and Data Science concepts  
 🚀 **Next Goal**: Start AI minor at IIT Ropar and contribute to real-world projects
@@ -15,7 +15,7 @@ Minor in AI @ IIT Ropar (Jan 2026) | Web Developer | Tech Explorer
 
 [LinkedIn](https://www.linkedin.com/in/naman-iitm/) 
 
-[Live Demos](#)
+[Instagram](https://www.instagram.com/smi_naman/) 
 
 > “Built on chai, coded with class, and debugged with style.”  
 <!--
