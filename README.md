@@ -2,6 +2,9 @@
 Aspiring Data Scientist | Future BS @ IIT Madras (Sept 2025)  
 Minor in AI @ IIT Ropar (Jan 2026) | Web Developer | Tech Explorer
 
+![GSSoC '25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Naman-iitm/Netflix-Clone?style=social)
+
 💻 **Projects I've built:**
 - 🎬 [Namflix](https://naman-iitm.github.io/Namflix/): A Netflix-style clone made with pure HTML & CSS (no AI, no GPT – just vibes 😎)
 - ☕ [ChaiTapri](https://naman-iitm.github.io/chai-tapri-website/): A website for chai lovers — clean UI, desi feel
