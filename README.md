@@ -13,11 +13,19 @@
 
 ## 🧑‍🚀 About Me
 
-> 🚀 IIT Madras | BS in Data Science & Applications  
-> 🤖 AI + Data Explorer | Minor in CSE & AI (IIT Mandi + Ropar)  
-> 💻 HTML, CSS, JS, Python, React | Full-Stack Learner  
-> 👨‍💻 Open Source Contributor @ GSSoC '25  
-> ☕ I love to build things that inspire people  
+> 🚀 IIT Madras | BS in Data Science & Applications
+> 
+> 🤖 AI + Data Explorer | 	•	AI @ IIT Ropar (2026)
+	•	Drone Tech @ IIT Hyderabad (2027)
+> 
+> 💻 HTML, CSS, JS, Python, React | Full-Stack Learner
+> 
+> 👨‍💻 Open Source Contributor @ GSSoC '25
+> 
+> 💖 Loves: Shreenu ❤️ | Code 💻 | Chai ☕
+> 
+> ⚡ Motto: Code karo, Chai piyo, Chill maro 😎
+
 
 ---
 
@@ -44,9 +52,9 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🎬 **Namflix** | Netflix clone with animated UI (HTML/CSS) | [🔗 Live](https://your-link.vercel.app) |
-| 🚀 **Indothon** | Hackathon site with futuristic theme | [🔗 Live](https://your-link.vercel.app) |
-| ☕ **Chai Tapri** | Desi chai-themed animated site | [🔗 Live](https://your-link.vercel.app) |
+| 🎬 **Namflix** | Netflix clone with animated UI (HTML/CSS) | [🔗 Live](https://naman-iitm.github.io/chai-tapri-website/) |
+| 🚀 **Indothon** | Hackathon site with futuristic theme | [🔗 Live](https://indothon.netlify.app) |
+| ☕ **Chai Tapri** | Desi chai-themed animated site | [🔗 Live](https://naman-iitm.github.io/Namflix/) |
 
 ---
 
@@ -60,9 +68,12 @@
 ### 🖼️ Certification Images
 
 <p align="center">
-  <img src="https://your-cert1-link.com" alt="Google Cloud" width="250"/>
-  <img src="https://your-cert2-link.com" alt="IIT Madras" width="250"/>
-  <img src="https://your-cert3-link.com" alt="Web Dev" width="250"/>
+  <img src="https://iili.io/Fe3t3zu.md.jpg" alt="Google Cloud" width="250"/>
+  <img src="https://iili.io/Fe3ZvWJ.md.jpg" alt="Microsoft" width="250"/>
+  <img src="https://iili.io/Fe3tRLJ.md.jpg" alt="AMAZOM AWS" width="250"/>
+  <img src="https://iili.io/Fe3ZIVf.md.jpg"alt="Amazon AWS " width="250"/>
+  <img src="https://iili.io/Fe3ZODg.md.jpg" alt="Hp life" width="250"/>
+  <img src="https://iili.io/Fe3Z8iv.md.jpg" alt="Microsoft Student Learn Ambassador" width="250"/>
 </p>
 
 ---
