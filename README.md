@@ -1,37 +1,65 @@
-### 👋 Hi, I'm Naman Jha  
-Aspiring Data Scientist | Future BS @ IIT Madras (Sept 2025)  
-Minor in AI @ IIT Ropar (Jan 2026) | Web Developer | Tech Explorer
+<h1 align="center">🚀 Naman Jha</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Scientist;BS+@+IIT+Madras+📘;AI+Minor+@+IIT+Ropar+🧠;Web+Developer+%7C+Tech+Explorer;Lover+of+Clean+Code+and+Chai!☕&center=true&width=500&height=45&color=00F9FF&vCenter=true&size=22" alt="Typing SVG">
+</p>
 
-![GSSoC '25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Naman-iitm/Netflix-Clone?style=social)
+---
 
-💻 **Projects I've built:**
-- 🎬 [Namflix](https://naman-iitm.github.io/Namflix/): A Netflix-style clone made with pure HTML & CSS (no AI, no GPT – just vibes 😎)
-- ☕ [ChaiTapri](https://naman-iitm.github.io/chai-tapri-website/): A website for chai lovers — clean UI, desi feel
-- 📄 [Application Form UI](https://naman-iitm.github.io/HTML-project-/): Fully responsive form with real-world layout
+### 👨‍💻 About Me
+```js
+const Naman = {
+  username: "Naman-iitm",
+  course: "BS in Data Science @ IIT Madras (2025–2029)",
+  minors: ["AI @ IIT Ropar(Jan 2026)", "Drone Technology @ IIT Hyderabad (2028)"],
+  skills: ["HTML", "CSS", "JavaScript", "Python", "Git"],
+  tools: ["VSCode", "Replit", "GitHub", "Bootstrap", "Tailwind"],
+  goals: ["Upskilling", "Top AI Startups", "Clean UI Design"],
+  motto: "Code karo, Chai piyo, Chill maro 😎",
+  loves: ["Shreenu ❤️", "Open Source", "Hackathons"]
+}
 
-🌱 **Currently Learning**: Python, Git, and Data Science concepts  
-🚀 **Next Goal**: Start AI minor at IIT Ropar and contribute to real-world projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-iitm&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-iitm&layout=compact&theme=radical" width="300"/>
+</p>
 
-🔗 **Connect With Me**  
-[GitHub](https://github.com/Naman-iitm) 
 
-[LinkedIn](https://www.linkedin.com/in/naman-iitm/) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-iitm&theme=react-dark" />
+</p>
 
-[Instagram](https://www.instagram.com/smi_naman/) 
 
-> “Built on chai, coded with class, and debugged with style.”  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Naman-iitm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/naman-iitm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/smi_naman/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 <!--
-**Naman-iitm/Naman-iitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐ Bonus Tip: Add your GitHub Profile Visitor Count
+![Visitor Badge](https://komarev.com/ghpvc/?username=Naman-iitm&label=Profile+Views&style=flat-square&color=blue)
 -->
+
+
+---
+
+### ⚡ Extra Tips:
+
+- Readme ko `dark reader` extension ke through dekhna for futuristic vibe.
+- Ye profile automatically teri **professionalism + coding journey + personal brand** highlight karega.
+- Tu `Futuristic CSS animation` aur `GIF background banner` bhi add kar sakta hai agar chaahe toh — next level look banega.
+
+Agar chaahe toh mein teri **animated GitHub cover banner** bhi bana sakta hoon (GIF style futuristic). Bataa de bhai 🔥
