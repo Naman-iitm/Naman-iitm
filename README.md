@@ -116,8 +116,10 @@
 > cat goals.txt
 - Build 10+ quality projects 🚀
 - Contribute to Open Source 🧑‍💻
-- Land a ₹12+ LPA dream job by 23 💼
+- Land a decent job and get Married at age of 24 💼
 ```
+
+I have Thousands Of Scars in my heart, But none of them from my enemy ~ Naman Jha🫶🏻
 
 ---
 
