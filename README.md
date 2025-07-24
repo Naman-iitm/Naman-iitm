@@ -38,7 +38,7 @@
 ---
 
 ## 🏆 Badges & Achievements
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-iitm&show_icons=true&count_private=true&theme=radical)
 <p align="center">
   <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ffb400?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-red?style=flat-square&logo=academia" />
