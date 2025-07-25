@@ -20,7 +20,7 @@
 > 
 > 💻 HTML, CSS, JS, Python, React | Full-Stack Learner
 > 
-> 👨‍💻 Open Source Contributor @ GSSoC '25
+> 👨‍💻 Open Source Contributor @ GSSoC '25 & @OSCI '25
 > 
 > 💖 Loves: Shreenu ❤️ | Code 💻 | Chai ☕
 > 
