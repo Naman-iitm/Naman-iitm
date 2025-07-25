@@ -40,6 +40,14 @@
 ## 🏆 Badges & Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-iitm&show_icons=true&count_private=true&theme=radical)
 <p align="center">
+	## 🧠 Google Cloud AI Badges
+
+<p align="center">
+  <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
+  <img src="https://i.ibb.co/dsJq5B8F/IMG-1858.jpg" alt="Large Language Models Badge" width="250"/>
+  <img src="https://i.ibb.co/pB7TZ7fR/IMG-1845.jpg" alt="Generative AI Badge" width="250"/>
+</p>
+
   <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ffb400?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-red?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/Drone%20AI%20Program-IIT%20Hyderabad-blue?style=flat-square" />
