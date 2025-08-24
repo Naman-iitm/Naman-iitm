@@ -86,12 +86,12 @@
 ### 🖼️ Certification Images
 
 <p align="center">
-  <img src="https://iili.io/Fe3t3zu.md.jpg" alt="Google Cloud" width="250"/>
-  <img src="https://iili.io/Fe3ZvWJ.md.jpg" alt="Microsoft" width="250"/>
-  <img src="https://iili.io/Fe3tRLJ.md.jpg" alt="AMAZOM AWS" width="250"/>
-  <img src="https://iili.io/Fe3ZIVf.md.jpg"alt="Amazon AWS " width="250"/>
-  <img src="https://iili.io/Fe3ZODg.md.jpg" alt="Hp life" width="250"/>
-  <img src="https://iili.io/Fe3Z8iv.md.jpg" alt="Microsoft Student Learn Ambassador" width="250"/>
+  <img src="https://iili.io/Fe3t3zu.md.jpg" alt="Google Cloud" border="0" width="250"/>
+  <img src="https://iili.io/Fe3ZvWJ.md.jpg" alt="Microsoft" border="0" width="250"/>
+  <img src="https://iili.io/Fe3tRLJ.md.jpg" alt="AMAZOM AWS" border="0" width="250"/>
+  <img src="https://iili.io/Fe3ZIVf.md.jpg"alt="Amazon AWS " border="0" width="250"/>
+  <img src="https://iili.io/Fe3ZODg.md.jpg" alt="Hp life" border="0" width="250"/>
+  <img src="https://iili.io/Fe3Z8iv.md.jpg" alt="Microsoft Student Learn Ambassador" border="0" width="250"/>
 	<img src="https://i.ibb.co/S4Q2DKxm/IMG-2196.jpg" alt="IMG-2196" width="250"  border="0">
 <img src="https://i.ibb.co/ynyPnVMy/IMG-2197.jpg" alt="IMG-2197"width="250"  border="0">
 <img src="https://i.ibb.co/5NHPWmS/IMG-2198.jpg" alt="IMG-2198" width="250"  border="0">
