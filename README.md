@@ -46,14 +46,14 @@
   <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
   <img src="https://i.ibb.co/dsJq5B8F/IMG-1858.jpg" alt="Large Language Models Badge" width="250"/>
   <img src="https://i.ibb.co/pB7TZ7fR/IMG-1845.jpg" alt="Generative AI Badge" width="250"/>
-  <img src="https://i.ibb.co/Q32Rn1Kj/IMG-2211.png" alt="IMG-2211" border="0">
-<img src="https://i.ibb.co/sdZhPt8m/IMG-2212.png" alt="IMG-2212" border="0">
-<img src="https://i.ibb.co/ccKTy9Xw/IMG-2213.png" alt="IMG-2213" border="0">
-<img src="https://i.ibb.co/xtjzwhCX/IMG-2214.png" alt="IMG-2214" border="0">
-<img src="https://i.ibb.co/v6Rsv2by/IMG-2215.png" alt="IMG-2215" border="0">
-<img src="https://i.ibb.co/0Vd0N0Qt/IMG-2216.png" alt="IMG-2216" border="0">
-<img src="https://i.ibb.co/Gf5c0xsq/IMG-2217.png" alt="IMG-2217" border="0">
-<img src="https://i.ibb.co/fzcYQzLt/IMG-2218.png" alt="IMG-2218" border="0">
+  <img src="https://i.ibb.co/Q32Rn1Kj/IMG-2211.png" alt="IMG-2211" width="250" border="0">
+<img src="https://i.ibb.co/sdZhPt8m/IMG-2212.png" alt="IMG-2212" width="250" border="0">
+<img src="https://i.ibb.co/ccKTy9Xw/IMG-2213.png" alt="IMG-2213" width="250" border="0">
+<img src="https://i.ibb.co/xtjzwhCX/IMG-2214.png" alt="IMG-2214" width="250" border="0">
+<img src="https://i.ibb.co/v6Rsv2by/IMG-2215.png" alt="IMG-2215" width="250" border="0">
+<img src="https://i.ibb.co/0Vd0N0Qt/IMG-2216.png" alt="IMG-2216" width="250" border="0">
+<img src="https://i.ibb.co/Gf5c0xsq/IMG-2217.png" alt="IMG-2217" width="250" border="0">
+<img src="https://i.ibb.co/fzcYQzLt/IMG-2218.png" alt="IMG-2218" width="250" border="0">
 </p>
 
   <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ffb400?style=flat-square&logo=github" />
