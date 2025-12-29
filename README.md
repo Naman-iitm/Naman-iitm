@@ -14,11 +14,10 @@
 ## 🧑‍🚀 About Me
 
 > 🚀 IIT Madras | BS in Data Science & Applications
->
-> ☁️ Google Cloud AF'25 | CA - @Unstop x @Techfest,IIT Bombay x @E-Cell,IIT Indore
 > 
 > 🤖 AI project Intern @Scaler AI Labs
-> 
+>
+> ☁️ Google Cloud AF'25 | Market Rep Intern @IIT Bombay
 > 
 > 💻 HTML, CSS, JS, Python, React | Full-Stack Learner
 > 
