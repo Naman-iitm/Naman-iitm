@@ -17,8 +17,8 @@
 >
 > ☁️ Google Cloud AF'25 | CA - @Unstop x @Techfest,IIT Bombay x @E-Cell,IIT Indore
 > 
-> 🤖 AI + Data Explorer | 	•	AI @ IIT Ropar (2026)
-	•	Drone Tech @ IIT Hyderabad (2027)
+> 🤖 AI project Intern @Scaler AI Labs
+> 
 > 
 > 💻 HTML, CSS, JS, Python, React | Full-Stack Learner
 > 
