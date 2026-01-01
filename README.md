@@ -11,19 +11,21 @@
 
 ---
 
-## 🧑‍🚀 About Me
+## 🧑🏻‍💻 About Me
 
-> 🚀 IIT Madras | BS in Data Science & Applications
+> • [Major - Data Science,  Minor - Economics] @IIT Madras | Minor - AI @IIT Ropar
 > 
-> 🤖 AI project Intern @Scaler AI Labs
->
-> ☁️ Google Cloud AF'25 | Market Rep Intern @IIT Bombay
+> • Assistance Partner @Kotak Mahindra Bank
 > 
-> 💻 HTML, CSS, JS, Python, React | Full-Stack Learner
+> • RL Env Project intern @Scaler AI lab
 > 
-> 👨‍💻 Open Source Contributor @ GSSoC '25 & @OSCI '25
+> • Google Cloud AF'25 | Market Rep Intern @IIT Bombay
 > 
-> 💖 Loves: Shreenu ❤️ | Code 💻 | Chai ☕
+> • HTML, CSS, JS, Python, React | Full-Stack Learner
+> 
+> • Open Source Contributor @ GSSoC '25 & @OSCI '25
+> 
+> •  Loves: Shreenu ❤️ | Code 💻 | Chai ☕
 > 
 > ⚡ Motto: Code karo, Chai piyo, Chill maro 😎
 
