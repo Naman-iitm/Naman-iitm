@@ -19,15 +19,15 @@
 > 
 > • RL Env Project intern @Scaler AI lab
 > 
+> • Trainee & Innovator @Google for startups
+> 
 > • Google Cloud AF'25 | Market Rep Intern @IIT Bombay
 > 
-> • HTML, CSS, JS, Python, React | Full-Stack Learner
+> • [Contributor & Mentor] @GSSoC '25 & @OSCI '25
 > 
-> • Open Source Contributor @ GSSoC '25 & @OSCI '25
+> 🌸 shreenu - wanna be yours
 > 
-> •  Loves: Shreenu ❤️ | Code 💻 | Chai ☕
-> 
-> ⚡ Motto: Code karo, Chai piyo, Chill maro 😎
+
 
 
 ---
