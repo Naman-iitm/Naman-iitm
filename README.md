@@ -55,11 +55,11 @@
 <img src="https://i.ibb.co/xtjzwhCX/IMG-2214.png" alt="IMG-2214" width="250" border="0">
 <img src="https://i.ibb.co/v6Rsv2by/IMG-2215.png" alt="IMG-2215" width="250" border="0">
 <img src="https://i.ibb.co/0Vd0N0Qt/IMG-2216.png" alt="IMG-2216" width="250" border="0">
-<img src="https://i.ibb.co/Gf5c0xsq/IMG-2217.png" alt="IMG-2217" width="250" border="0">
-<img src="https://i.ibb.co/fzcYQzLt/IMG-2218.png" alt="IMG-2218" width="250" border="0">
+<!-- <img src="https://i.ibb.co/Gf5c0xsq/IMG-2217.png" alt="IMG-2217" width="250" border="0">
+<img src="https://i.ibb.co/fzcYQzLt/IMG-2218.png" alt="IMG-2218" width="250" border="0"> -->
 </p>
 
-  <img src="https://img.shields.io/badge/GSSoC'25-Contributor-ffb400?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/GSSoC'25-Contributor & Mentor-ffb400?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-red?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/Drone%20AI%20Program-IIT%20Hyderabad-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-Google%20Certified-blue?style=flat-square&logo=googlecloud" />
