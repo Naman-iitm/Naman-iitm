@@ -25,7 +25,7 @@
 > 
 > • [Contributor & Mentor] @GSSoC '25 & @OSCI '25
 > 
-> 🌸 shreenu - wanna be your
+> 🌸 shreenu - wanna be yours
 > 
 
 
