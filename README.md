@@ -84,9 +84,9 @@
 > ✅ Web Dev Bootcamp (Ongoing)  
 > ✅ Drone AI & Robotics (Upcoming - IIT Hyderabad)
 
-### 🖼️ Certification Images
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://iili.io/Fe3t3zu.md.jpg" alt="Google Cloud" border="0" width="250"/>
   <img src="https://iili.io/Fe3ZvWJ.md.jpg" alt="Microsoft" border="0" width="250"/>
   <img src="https://iili.io/Fe3tRLJ.md.jpg" alt="AMAZOM AWS" border="0" width="250"/>
@@ -107,11 +107,17 @@
 <img src="https://i.ibb.co/F4SNHgRJ/IMG-2207.jpg" alt="IMG-2207" width="250"  border="0">
 <img src="https://i.ibb.co/1tC4vk1F/IMG-2208.jpg" alt="IMG-2208" width="250"  border="0">
 <img src="https://i.ibb.co/cSXxSJSP/IMG-2210.jpg" alt="IMG-2210" width="250"  border="0">
-</p>
+</p> -->
 
----
 
 ## 📊 My GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naman-iitm&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-iitm&theme=dark" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naman-iitm&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
