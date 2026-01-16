@@ -56,11 +56,10 @@
 
 ---
 ## 🏆 Badges & Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-iitm&show_icons=true&count_private=true&theme=radical)
-<p align="center">
+
 	## 🧠 Google Cloud AI Badges
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
   <img src="https://i.ibb.co/dsJq5B8F/IMG-1858.jpg" alt="Large Language Models Badge" width="250"/>
   <img src="https://i.ibb.co/pB7TZ7fR/IMG-1845.jpg" alt="Generative AI Badge" width="250"/>
@@ -72,13 +71,13 @@
 <img src="https://i.ibb.co/0Vd0N0Qt/IMG-2216.png" alt="IMG-2216" width="250" border="0">
 <!-- <img src="https://i.ibb.co/Gf5c0xsq/IMG-2217.png" alt="IMG-2217" width="250" border="0">
 <img src="https://i.ibb.co/fzcYQzLt/IMG-2218.png" alt="IMG-2218" width="250" border="0"> -->
-</p>
+<!-- </p> -->
 
-  <img src="https://img.shields.io/badge/GSSoC'25-Contributor & Mentor-ffb400?style=flat-square&logo=github" />
+ <!-- <img src="https://img.shields.io/badge/GSSoC'25-Contributor & Mentor-ffb400?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-red?style=flat-square&logo=academia" />
   <img src="https://img.shields.io/badge/Drone%20AI%20Program-IIT%20Hyderabad-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-Google%20Certified-blue?style=flat-square&logo=googlecloud" />
-</p>
+</p>-->
 
 ---
 
@@ -144,10 +143,8 @@
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naman-iitm&theme=matrix&margin-w=10&row=2&column=4" />
-</p>
-
+ 
+![](https://github-trophies.vercel.app/?username=Naman-iitm&theme=matrix&margin-w=10&row=1&column=8)
 ---
 
 ## 👨‍💻 Terminal Mode
