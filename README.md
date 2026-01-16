@@ -39,7 +39,22 @@
 </p>
 
 ---
+## 📊 My GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naman-iitm&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naman-iitm&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-iitm&theme=dark" />
+</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-iitm&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=Naman-iitm&theme=radical&hide_border=true" width="48%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-iitm&theme=react-dark&hide_border=true&radius=10" width="100%"/>
+</p>
+
+---
 ## 🏆 Badges & Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-iitm&show_icons=true&count_private=true&theme=radical)
 <p align="center">
