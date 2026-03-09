@@ -13,7 +13,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-> • [Major - Data Science,  Minor - Economics] @IIT Madras | Minor - AI @IIT Ropar
+> • [Major - Data Science,  Minor - Economics] @IIT Madras | Minor - AI @Stanford USA
 > 
 > • Assistance Partner @Kotak Mahindra Bank
 > 
