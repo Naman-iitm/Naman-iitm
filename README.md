@@ -13,7 +13,11 @@
 
 ## 🧑🏻‍💻 About Me
 
-> • [Major - Data Science,  Minor - Economics] @IIT Madras | Minor - AI @Stanford USA
+> • [Major - Data Science,  Minor - Economics] @IIT Madras | AI - @Stanford USA
+>
+> • Research Intern @National Institute of Technology Tiruchirappalli (NIT Trichy)
+>
+> • Winter Intern @Indian Institute of Technology, Ropar
 > 
 > • Assistance Partner @Kotak Mahindra Bank
 > 
