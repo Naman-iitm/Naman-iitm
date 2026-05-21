@@ -13,24 +13,23 @@
 
 ## 🧑🏻‍💻 About Me
 
-> • [Major - Data Science,  Minor - Economics] @IIT Madras | AI - @Stanford USA
+> • **[Major - Data Science,  Minor - Economics] @IIT Madras**
+> 
+> • **[Research Apprentice]**  - **Cambridge Judge Business School**
 >
-> • Research Intern @National Institute of Technology Tiruchirappalli (NIT Trichy)
+> • **[Research Intern]** - **National Institute of Technology Tiruchirappalli (NIT Trichy)**
 >
-> • Winter Intern @Indian Institute of Technology, Ropar
+> • **[Winter Intern]** - **Indian Institute of Technology, Ropar**
 > 
-> • Assistance Partner @Kotak Mahindra Bank
+> • **[Assistance Partner]** - **Kotak Mahindra Bank**
 > 
-> • RL Env Project intern @Scaler AI lab
+> • **[Co-founder | Research & Growth]** - **OBLIQ.io**
 > 
-> • Trainee & Innovator @Google for startups
+> • **[RL Env Project intern]** - **Scaler AI lab**
 > 
-> • Google Cloud AF'25 | Market Rep Intern @IIT Bombay
+> • **[Python Mentor]** | **Helping students build projects and stronger tech foundations**
 > 
-> • [Contributor & Mentor] @GSSoC '25 & @OSCI '25
-> 
-> 🌸 shreenu - wanna be yours
-> 
+> • **[Working on Semantic Web, Multi-Hop QA, ML & Scalable Applications]**
 
 
 
