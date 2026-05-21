@@ -15,7 +15,7 @@
 
 > • **[Major - Data Science,  Minor - Economics] @IIT Madras**
 > 
-> • **[Research Apprentice]**  - **Cambridge Judge Business School**
+> • **[Research Apprentice]**  - **University of Cambridge Judge Business School**
 >
 > • **[Research Intern]** - **National Institute of Technology Tiruchirappalli (NIT Trichy)**
 >
