@@ -60,6 +60,14 @@
 ---
 ## 🏆 Badges & Achievements
 
+🏅 LIC Golden Jubilee Scholarship
+
+🏅 Research Internship @ NIT Trichy
+
+🏅 Research Apprentice @ Cambridge Judge Business School
+
+🏅 Mentor – Open Source Programs
+
 	## 🧠 Google Cloud AI Badges
 
 <!-- <p align="center">
@@ -84,13 +92,14 @@
 
 ---
 
-## 🔥 My Top Projects
+## 🔥 Featured Projects
 
-| Project | Description | Live Demo |
+| Project | Description | Repo & Demo Link |
 |--------|-------------|-----------|
-| 🎬 **Namflix** | Netflix clone with animated UI (HTML/CSS) | [🔗 Live](https://naman-iitm.github.io/chai-tapri-website/) |
-| 🚀 **Indothon** | Hackathon site with futuristic theme | [🔗 Live](https://indothon.netlify.app) |
-| ☕ **Chai Tapri** | Desi chai-themed animated site | [🔗 Live](https://naman-iitm.github.io/Namflix/) |
+|🌱 Seed | Smart Trading & Portfolio Tracking Platform | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
+| 🏥 Sehat Saathi | AI-powered healthcare accessibility platform | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
+| 📈 Smart Portfolio Optimizer | Modern Portfolio Theory based optimizer| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
+| 🚀 Indothon | Futuristic Hackathon Website | [🔗 Demo](https://indothon.netlify.app) |
 
 ---
 
@@ -168,9 +177,8 @@
 📁 AI-Minors
 
 > cat goals.txt
-- Build 10+ quality projects 🚀
+- Build 30+ quality projects 🚀
 - Contribute to Open Source 🧑‍💻
-- Land a decent job and get Married at age of 24 💼
 ```
 
 I have Thousands Of Scars in my heart, But none of them from my enemy ~ Naman Jha🫶🏻
