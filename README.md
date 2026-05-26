@@ -14,6 +14,8 @@
 ## 🧑🏻‍💻 About Me
 
 > • **[Major - Data Science,  Minor - Economics] @IIT Madras**
+>
+> **[Upcoming Research Assistant]**  - **University of Illinois USA**
 > 
 > • **[Research Apprentice]**  - **University of Cambridge Judge Business School**
 >
