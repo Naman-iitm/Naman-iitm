@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Naman+Jha;Futuristic+Data+%26+AI+Explorer+from+IIT+Madras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=FFC800&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Naman+Jha%2C+AI+Researcher&duration=4000" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=University+of+Cambridge+JBS+%7C+University+of+Illinois+%7C+NIT+Trichy" alt="Typing SVG" />
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-naman--iitm-0077B5?style=for-the-badge&logo=linkedin" />
   <img src="https://img.shields.io/badge/Instagram-smi__naman-E4405F?style=for-the-badge&logo=instagram" />
