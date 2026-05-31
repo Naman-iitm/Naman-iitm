@@ -6,35 +6,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=University+of+Cambridge+JBS+%7C+University+of+Illinois+%7C+NIT+Trichy" alt="Typing SVG" />
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-naman--iitm-0077B5?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Instagram-smi__naman-E4405F?style=for-the-badge&logo=instagram" />
-  <img src="https://img.shields.io/badge/GitHub-naman--iitm-181717?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=Naman-iitm&style=for-the-badge&color=00ffd9" />
+  <img src="https://img.shields.io/badge/LinkedIn-naman--iitm-0099FF?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Instagram-smi__naman-FF0059?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/GitHub-naman--iitm-BB99FF?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Naman-iitm&style=for-the-badge&color=FF6F00" />
 </p>
 
 ---
 
+<!-- <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:1a2744&height=120&section=header&fontSize=0)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=2500&color=5B9BD5&center=true&vCenter=true&width=700&height=65&lines=Naman+Jha" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7A9CC4&center=true&vCenter=true&width=860&height=36&lines=Data+Science+%40+IIT+Madras+%7C+AI+Researcher+%7C+Builder" alt="Tagline" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=888888&center=true&vCenter=true&multiline=false&width=860&height=30&lines=Cambridge+JBS+%E2%80%82%7C%E2%80%82Univ+of+Illinois+%E2%80%82%7C%E2%80%82NIT+Trichy+%E2%80%82%7C%E2%80%82IIT+Ropar" alt="Institutions" />
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,100:0f0f1a&height=80&section=footer&fontSize=0)
+
+</div>
+
+--- -->
+
 ## 🧑🏻‍💻 About Me
 
-> • **[Major - Data Science,  Minor - Economics] @IIT Madras**
->
-> **[Upcoming Research Assistant]**  - **University of Illinois USA**
-> 
-> • **[Research Apprentice]**  - **University of Cambridge Judge Business School**
->
-> • **[Research Intern]** - **National Institute of Technology Tiruchirappalli (NIT Trichy)**
->
-> • **[Winter Intern]** - **Indian Institute of Technology, Ropar**
-> 
-> • **[Assistance Partner]** - **Kotak Mahindra Bank**
-> 
-> • **[Co-founder | Research & Growth]** - **OBLIQ.io**
-> 
-> • **[RL Env Project intern]** - **Scaler AI lab**
-> 
-> • **[Python Mentor]** | **Helping students build projects and stronger tech foundations**
-> 
-> • **[Working on Semantic Web, Multi-Hop QA, ML & Scalable Applications]**
+```text
+ DS + Economics @ IIT Madras
+ Research Apprentice      →  University of Cambridge, Judge Business School
+ Upcoming Research Asst.  →  University of Illinois, USA
+ Research Intern          →  NIT Tiruchirappalli
+ Winter Intern            →  IIT Ropar
+ RL Env Intern            →  Scaler AI Lab
+ Assistance Partner       →  Kotak Mahindra Bank
+ Co-founder               →  OBLIQ.io  [Research & Growth]
+ Python Mentor            →  Project-based learning
+```
+
+> 🔬 Working on **Semantic Web · Multi-Hop QA · ML · Scalable Applications**
 
 
 
