@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+type: software
+
+title: "SEED — Smart Trading & Portfolio Analytics Platform"
+version: "0.1.0"
+date-released: "2026-08-18"
+
+authors:
+  - family-names: "Jha"
+    given-names: "Naman"
+
+repository-code: "https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-"
+
+license: "MIT"
+
+keywords:
+  - trading simulation
+  - portfolio analytics
+  - data science
+  - financial analytics
+  - TypeScript
+  - React
