@@ -35,18 +35,17 @@
 ## 🧑🏻‍💻 About Me
 
 ```text
- DS + Economics @ IIT Madras
- Research Apprentice      →  University of Cambridge, Judge Business School
- Upcoming Research Asst.  →  University of Illinois, USA
- Research Intern          →  NIT Tiruchirappalli
- Winter Intern            →  IIT Ropar
- RL Env Intern            →  Scaler AI Lab
- Assistance Partner       →  Kotak Mahindra Bank
- Co-founder               →  OBLIQ.io  [Research & Growth]
- Python Mentor            →  Project-based learning
+• Research Apprentice     → University of Cambridge JBS | Department of Business & Marketing.
+• Research Assistant      → University of Illinois Urbana-Campaign | Department of Computer Science
+• Former Research Intern  → National Institute of Technology, Tiruchipalli | Department of Computer Science & Engg.
+• Former Research Intern  → Indian Institute of Technology, Ropar | Department of Computer Science & Engg.
+• Former Research Intern  → Jamia Hamdard | Department of Computer Science & Engg.
+• Former Risk Apprentice  → Kotak Mahindra Bank | Risk & Finance Department.
+• AI Data Operation       → Scaler AI Lab 
+
 ```
 
-> 🔬 Working on **Semantic Web · Multi-Hop QA · ML · Scalable Applications**
+> I enjoy building research-oriented software, working with real-world data, and turning ideas into practical, scalable applications.
 
 
 
@@ -75,17 +74,22 @@
 </p>
 
 ---
-## 🏆 Badges & Achievements
+## 🏆 Achievements
 
-🏅 LIC Golden Jubilee Scholarship
+**Top 6.06% Performer in the Verus software engineering research evaluation:**
+- Selected for the UIUC++ SRSE 2026 research program after top performance in the Verus software engineering research evaluation. Chosen from a highly competitive applicant pool of 1,200+ applicants.
 
-🏅 Research Internship @ NIT Trichy
+**Cleared Round 2 (Research IQT) and Round 3 (Research Reading & IGE):**
+- Selected through a multi-stage research assessment process, including Research IQ and Research Reading & Idea Generation evaluations, to contribute to research initiatives at University of Cambridge Judge Business School.
 
-🏅 Research Apprentice @ Cambridge Judge Business School
+**LIC Golden Jubilee Scholarship:**
+- Awarded the LIC Golden Jubilee Scholarship in recognition of exceptional academic performance and merit, Issued by Life Insurance Corporation of India (LIC).
 
-🏅 Mentor – Open Source Programs
+**Delegate at Harvard HPAIR Asia Conference 2026:**
+- Selected as a delegate for the Harvard Project for Asian and International Relations (HPAIR) Asia Conference 2026 at VinUniversity, Vietnam.
 
-	## 🧠 Google Cloud AI Badges
+**Startup OBLIQ.io:**
+- Co-founded OBLIQ.io and helped build a 25-member founding team spanning Research (15) and CA, Operations & Workflow (10).OBLIQ.io was selected for the **GitLab for Startups Program** and **Sarvam AI Startup Program**.
 
 <!-- <p align="center">
   <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
@@ -113,19 +117,10 @@
 
 | Project | Description | Repo & Demo Link |
 |--------|-------------|-----------|
-|🌱 Seed | Smart Trading & Portfolio Tracking Platform | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
-| 🏥 Sehat Saathi | AI-powered healthcare accessibility platform | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
-| 📈 Smart Portfolio Optimizer | Modern Portfolio Theory based optimizer| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
-| 🚀 Indothon | Futuristic Hackathon Website | [🔗 Demo](https://indothon.netlify.app) |
-
----
-
-## 📜 Certifications
-
-> ✅ Google Cloud Computing Foundations  
-> ✅ IIT Madras - Foundational Level  
-> ✅ Web Dev Bootcamp (Ongoing)  
-> ✅ Drone AI & Robotics (Upcoming - IIT Hyderabad)
+|SkyTrack → Satellite Research Pipeline | A Streamlit-based pipeline for enriching satellite datasets using structured public sources and producing standardized, research-ready outputs.| [🔗 Repo](https://github.com/Naman-iitm/SkyTrack-satellite-research-pipeline) |
+| Sehat Saathi (स्वास्थ्य साथी) | Built a mobile-first health platform with symptom tracking, AI-based health guidance, aﬀordable medicine ordering, and real-time hospital discovery Integrated government health schemes, multilingual support, and low-bandwidth optimization to ensure accessibility for rural and lower-income users across India. | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
+| Smart Portfolio Optimizer | Developed a quantitative portfolio optimization tool based on Modern Portfolio Theory (MPT) to analyze risk-return tradeoﬀs.| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
+| Seed → Smart Trading & Portfolio Tracker | SEED is a modern trading simulation and portfolio analytics platform designed to provide a realistic financial dashboard experience. | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
 
 
 
@@ -180,26 +175,25 @@
 
 ```bash
 > whoami
-👨‍💻 Naman Jha | Data Science @ IIT Madras
+Naman Jha | Data Science @ IIT Madras
 
 > pwd
-~/projects/ai-ml-webdev
+~/research/ai-ml
 
-> ls -a
-📁 Namflix
-📁 Indothon
-📁 ChaiTapri
-📁 Certifications
-📁 Open-Source
-📁 AI-Minors
+> ls
+AI-ML/
+Semantic-Web/
+LLMs/
+Data-Science/
+Open-Source/
+
+> cat focus.txt
+AI Research
+Semantic Web
+LLMs & Multi-Hop QA
+Data Science
 
 > cat goals.txt
-- Build 30+ quality projects 🚀
-- Contribute to Open Source 🧑‍💻
-```
-
-I have Thousands Of Scars in my heart, But none of them from my enemy ~ Naman Jha🫶🏻
-
----
-
-<h3 align="center">💫 Futuristic. Focused. Fearless. | smi_naman</h3>
+Build meaningful systems.
+Contribute to Open Source.
+Publish reproducible research.
