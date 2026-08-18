@@ -32,7 +32,7 @@
 
 --- -->
 
-## 🧑🏻‍💻 About Me
+## About Me
 
 ```text
 • Research Apprentice     → University of Cambridge JBS | Department of Business & Marketing.
@@ -42,7 +42,6 @@
 • Former Research Intern  → Jamia Hamdard | Department of Computer Science & Engg.
 • Former Risk Apprentice  → Kotak Mahindra Bank | Risk & Finance Department.
 • AI Data Operation       → Scaler AI Lab 
-
 ```
 
 > I enjoy building research-oriented software, working with real-world data, and turning ideas into practical, scalable applications.
@@ -51,14 +50,14 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,bootstrap,git,github,vscode,figma,linux" />
 </p>
 
 ---
-## 📊 My GitHub Analytics
+## My GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-iitm&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman-iitm&theme=dark" />
@@ -74,21 +73,21 @@
 </p>
 
 ---
-## 🏆 Achievements
+## Achievements
 
-**Top 6.06% Performer in the Verus software engineering research evaluation:**
+→**Top 6.06% Performer in the Verus software engineering research evaluation:**
 - Selected for the UIUC++ SRSE 2026 research program after top performance in the Verus software engineering research evaluation. Chosen from a highly competitive applicant pool of 1,200+ applicants.
 
-**Cleared Round 2 (Research IQT) and Round 3 (Research Reading & IGE):**
+→**Cleared Round 2 (Research IQT) and Round 3 (Research Reading & IGE):**
 - Selected through a multi-stage research assessment process, including Research IQ and Research Reading & Idea Generation evaluations, to contribute to research initiatives at University of Cambridge Judge Business School.
 
-**LIC Golden Jubilee Scholarship:**
+→**LIC Golden Jubilee Scholarship:**
 - Awarded the LIC Golden Jubilee Scholarship in recognition of exceptional academic performance and merit, Issued by Life Insurance Corporation of India (LIC).
 
-**Delegate at Harvard HPAIR Asia Conference 2026:**
+→**Delegate at Harvard HPAIR Asia Conference 2026:**
 - Selected as a delegate for the Harvard Project for Asian and International Relations (HPAIR) Asia Conference 2026 at VinUniversity, Vietnam.
 
-**Startup OBLIQ.io:**
+→**Startup OBLIQ.io:**
 - Co-founded OBLIQ.io and helped build a 25-member founding team spanning Research (15) and CA, Operations & Workflow (10).OBLIQ.io was selected for the **GitLab for Startups Program** and **Sarvam AI Startup Program**.
 
 <!-- <p align="center">
@@ -113,14 +112,15 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 | Project | Description | Repo & Demo Link |
 |--------|-------------|-----------|
-|SkyTrack → Satellite Research Pipeline | A Streamlit-based pipeline for enriching satellite datasets using structured public sources and producing standardized, research-ready outputs.| [🔗 Repo](https://github.com/Naman-iitm/SkyTrack-satellite-research-pipeline) |
+|SkyTrack → Satellite Research Pipeline | A Streamlit-based pipeline for enriching satellite datasets using structured public sources and producing standardized, research-ready outputs.The application streamlines satellite metadata collection, validation, and export for research workflows by combining multiple data sources into a single interface.| [🔗 Repo](https://github.com/Naman-iitm/SkyTrack-satellite-research-pipeline) |
 | Sehat Saathi (स्वास्थ्य साथी) | Built a mobile-first health platform with symptom tracking, AI-based health guidance, aﬀordable medicine ordering, and real-time hospital discovery Integrated government health schemes, multilingual support, and low-bandwidth optimization to ensure accessibility for rural and lower-income users across India. | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
-| Smart Portfolio Optimizer | Developed a quantitative portfolio optimization tool based on Modern Portfolio Theory (MPT) to analyze risk-return tradeoﬀs.| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
+| Smart Portfolio Optimizer | The Smart Portfolio Optimization project is a cutting-edge financial analytics solution designed to enhance investment strategies. Leveraging advanced algorithms and data analysis, this project aims to intelligently optimize investment portfolios for maximum returns while managing risk effectively.| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
 | Seed → Smart Trading & Portfolio Tracker | SEED is a modern trading simulation and portfolio analytics platform designed to provide a realistic financial dashboard experience. | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
+| Adaptive Agricultural Campaign Intelligence | Production-style hackathon MVP for AI-powered agricultural marketing at scale. This is not a chatbot — the app wraps a completed LightGBM engagement model with channel intelligence, RAG agronomy retrieval, hyperlocal vernacular campaign generation, SQLite persistence, and a unified Vue application serving both farmers and marketers.| [🔗 Repo](https://github.com/Naman-iitm/terraplus) |
 
 
 
@@ -165,13 +165,13 @@
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
  
 ![](https://github-trophies.vercel.app/?username=Naman-iitm&theme=matrix&margin-w=10&row=1&column=8)
 ---
 
-## 👨‍💻 Terminal Mode
+## Terminal Mode
 
 ```bash
 > whoami
