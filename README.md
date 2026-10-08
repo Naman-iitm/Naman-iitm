@@ -88,8 +88,9 @@
 - Selected as a delegate for the Harvard Project for Asian and International Relations (HPAIR) Asia Conference 2026 at VinUniversity, Vietnam.
 
 →**Startup OBLIQ-in | NVIDIA Inception:**
-- Co-founded OBLIQ-in and helped build a 25-member founding team spanning Research (15) and CA, Operations & Workflow (10).OBLIQ-in Backed by** NVIDIA Inception,Atlassian, Auth0 by Okta, GitLab, MongoDB, Sarvam, Zendesk & Zoho program
-**
+- Co-founded OBLIQ-in and helped build a 25-member founding team spanning Research (15) and CA, Operations & Workflow (10).OBLIQ-in Backed by **NVIDIA Inception,Atlassian, Auth0 by Okta, GitLab, MongoDB, Sarvam, Zendesk & Zoho program**
+
+
 <!-- <p align="center">
   <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
   <img src="https://i.ibb.co/dsJq5B8F/IMG-1858.jpg" alt="Large Language Models Badge" width="250"/>
